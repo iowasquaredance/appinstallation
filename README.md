@@ -1,1 +1,1 @@
-Files for installation instructions web page.  The .apk is not here, at least not yet.
+Files for installation instructions web page.  The .apk is here:  https://github.com/iowasquaredance/iowasquaredanceapp/releases/download/V2.1/app-release.apk
